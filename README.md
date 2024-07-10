@@ -59,6 +59,9 @@ We also have various official deriative of QuantuMiz (A.K.A Editions), which is 
 * [QuantuMiz: Competitive Edition (QuantuMiz CE)](https://modrinth.com/modpack/quantumiz-ce): A modpack optimized for PvP gaming for various community servers, displaying useful information and highly customizable features.
 * [QuantuMiz EX](https://modrinth.com/modpack/quantumiz-ex): A modpack aiming to improve Vanilla minecraft with features and quality-of-life improvements from various games since 2010s, including voice chat, borderless windows, public LAN servers, controller support and much more.
 
+## Special Thanks
+* SkywardMC
+
 ## Disclaimer!
 By using this modpack, you agree to the following:
 * Our modpacks are designed to comply with most of the community server rules in mind. Please add/remove, enable mods and features at your own risk. We are NOT responsible for any bans or suspension from community servers from modifying the list of mods.
