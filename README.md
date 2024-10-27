@@ -27,31 +27,7 @@ See [here](https://github.com/QuantuMiz/QuantuMiz/releases).
 * 100% community-made, free and open-source! All mod's source code are available on their respective GitHub page.
 
 ## List of Mods
-Some of mods featured here can be configured on Mod Menu.
-
-* [BadOptimizations](https://modrinth.com/mod/badoptimizations)
-* [Cloth Config API](https://modrinth.com/mod/cloth-config)
-* [Continuity](https://modrinth.com/mod/continuity)
-* [Debugify](https://modrinth.com/mod/debugify)
-* [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
-* [Fabric API](https://modrinth.com/mod/fabric-api)
-* [FerriteCore](https://modrinth.com/mod/ferrite-core)
-* [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
-* [Indium](https://modrinth.com/mod/indium)
-* [Iris](https://modrinth.com/mod/iris)
-* [Lithium](https://modrinth.com/mod/lithium)
-* [Main Menu Credits](https://modrinth.com/mod/main-menu-credits)
-* [MixinTrace](https://modrinth.com/mod/mixintrace)
-* [Mod Menu](https://modrinth.com/mod/modmenu)
-* [Model Gap Fix](https://modrinth.com/mod/modelfix)
-* [ModernFix](https://modrinth.com/mod/modernfix)
-* [More Culling](https://modrinth.com/mod/moreculling)
-* [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
-* [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)
-* [Sodium](https://modrinth.com/mod/sodium)
-* [ThreadTweak](https://modrinth.com/mod/threadtweak)
-* [YetAnotherConfigLib](https://modrinth.com/mod/yacl)
-* [YOSBR](https://modrinth.com/mod/yosbr)
+Some of mods featured here can be configured on Mod Menu. Refer to [List of mods](https://github.com/QuantuMiz/QuantuMiz/wiki/List-of-Mods) page for full list of mods.
 
 ## Deriatives/Editions
 We also have various official deriative of QuantuMiz (A.K.A Editions), which is designed for specific purposes.
@@ -60,7 +36,9 @@ We also have various official deriative of QuantuMiz (A.K.A Editions), which is 
 * [QuantuMiz EX](https://modrinth.com/modpack/quantumiz-ex): A modpack aiming to improve Vanilla minecraft with features and quality-of-life improvements from various games since 2010s, including voice chat, borderless windows, public LAN servers, controller support and much more.
 
 ## Special Thanks
-* SkywardMC
+* Fabulously Optimized
+* Simply Optimized
+* SkywardMC Team (Creator of Adrenaline and Additive modpack)
 
 ## Disclaimer!
 By using this modpack, you agree to the following:
