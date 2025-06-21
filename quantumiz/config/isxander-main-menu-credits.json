@@ -3,8 +3,8 @@
     {
         "bottom_right": [
             {
-                "text":"QuantuMiz for 1.21.5 \"Orius\"",
-                "color":"#fc6b75",
+                "text":"QuantuMiz 3.4 for MC 1.21.6 \"Ptah\"",
+                "color":"#D4AF37",
                 "click_event":
                 {
                     "action":"open_url",
