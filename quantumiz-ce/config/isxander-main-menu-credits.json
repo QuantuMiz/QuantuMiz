@@ -1,0 +1,16 @@
+{
+    "main_menu":
+    {
+        "bottom_right": [
+            {
+                "text":"QuantuMiz CE for 1.21.5 \"Orius\"",
+                "color":"#fc6b75",
+                "click_event":
+                {
+                    "action":"open_url",
+                    "url":"https://modrinth.com/modpack/quantumiz-ce"
+                }
+            }
+        ]
+    }
+}

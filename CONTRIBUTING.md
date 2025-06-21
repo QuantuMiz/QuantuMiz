@@ -1,4 +1,4 @@
-## Contribution guidelines
+## Contribution Guidelines
 ### Crash reporting
 Report crashes by uploading your log file and paste the link to the log from [mclo.gs](https://mclo.gs/). This ensures prevention of any issue related with your privacy.
 
@@ -12,6 +12,6 @@ Before you post an issue, make sure you:
 * Provide more details. Do not just post 'It is not working' or 'Add feature pls' and it is NOT really helpful.
 * Follow the templates when writing your issue.
 * Keep the issue as one. If you have several issue to report, don't hesitate to make new one instead of having multiple issue on single issue.
-* Keep the issue focused at QuantuMiz project. We cannot provide support for other subjects, and should be reported to appropriate places.
+* Keep the issue focused at QuantuMiz or QuantuMiz CE project. We cannot provide support for other subjects, and should be reported to appropriate places.
 
-The pull request is optional but recommended if you know how does things works. We will review the code and will be applied if it's fine. We don't bite for not making a pull request ;)
+If you have something else to contribute, feel free to make a pull request. Please only make pull request on `main` branch and NOT anything else.
