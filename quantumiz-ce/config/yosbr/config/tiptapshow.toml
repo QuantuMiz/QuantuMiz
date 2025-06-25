@@ -1,8 +1,8 @@
 isEnabled = true
 backgroundColor = -1728053248
 pressedBackgroundColor = 362789305
-keyColor = 16711770
-pressedKeyColor = 16777215
+keyColor = -65446
+pressedKeyColor = -1
 rainbowMode = false
 rainbowOffset = 9
 rainbowSpeed = 4
