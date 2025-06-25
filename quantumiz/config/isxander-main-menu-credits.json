@@ -4,12 +4,7 @@
         "bottom_right": [
             {
                 "text":"QuantuMiz 3.4 for MC 1.21.6 \"Ptah\"",
-                "color":"#D4AF37",
-                "click_event":
-                {
-                    "action":"open_url",
-                    "url":"https://modrinth.com/modpack/quantumiz"
-                }
+                "color":"#D4AF37"
             }
         ]
     }
