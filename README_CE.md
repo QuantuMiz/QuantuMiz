@@ -8,7 +8,7 @@
     ·
     <a href="https://github.com/QuantuMiz/QuantuMiz/issues">Issue Tracker</a>
     ·
-    <a href="https://github.com/QuantuMiz/QuantuMiz-CE">Source Code</a>
+    <a href="https://github.com/QuantuMiz/QuantuMiz">Source Code</a>
   </p>
 </p>
 
