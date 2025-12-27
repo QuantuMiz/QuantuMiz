@@ -3,12 +3,12 @@
     {
         "bottom_right": [
             {
-                "text":"https://modrinth.com/modpack/quantumiz-ce",
+                "text":"https://modrinth.com/modpack/quantumiz",
                 "color":"#FFFFFF"
             },
             {
-                "text":"QuantuMiz CE 3.4 for MC 1.21.8 \"Ptah\"",
-                "color":"#D4AF37"
+                "text":"QuantuMiz CE 3.5.x for MC 1.21.11 \"Quaoar\"",
+                "color":"#D1EAF0"
             }
         ]
     }
