@@ -44,6 +44,6 @@ By using this modpack, you agree to the following:
 * Starting with 2.2.4/2.1.10, Controller support is added to the modpack. If the server you are joining does not allow the use of controllers, please refrain from using it to avoid suspensions and bans.
 * **Our project is ONLY distributed on QuantuMiz GitHub repository and Modrinth.** Please refrain from downloading from other sources as they might include malware and they are not distributed by myself.
 * For your safety and privacy concerns, our modpack includes 'No Chat Report' mod to disable chat reporting added on 1.19.1 release. Please note you may not join some of servers with chat signing enforced. In that case, please contact the server owner to disable chat signing enforced setting by providing reasonable explanation. Read this article for more details: [#SaveMinecraft: The truth and controversy behind Minecraft's new Player Reporting update](https://www.windowscentral.com/gaming/minecraft/saveminecraft-the-truth-and-controversy-behind-minecrafts-new-player-reporting)
-* You may freely fork and remix this project. However to prevent any confusion, please refrain from using our 'QuantuMiz' name and logo on your fork and remix.
+* You may freely fork and remix this project. However to prevent any confusion, please refrain from using our 'QuantuMiz', 'QuantuMiz CE' and 'QuantuMiz Fresh' name and logo on your fork and remix.
 
-This project is NOT an official Minecraft service, and NOT affiliated or associated with Mojang or Microsoft.
+This project is not an official Minecraft service, affiliated or associated with Mojang or Microsoft.
